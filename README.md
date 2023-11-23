@@ -4,6 +4,7 @@ An openGL implementation of a simplified version of Plant Vs Zombies.  The game 
 
 The game introduced a resource system where stars appeared at random intervals, and players could collect them to deploy defenders. Each diamond defender had a specific color (orange, blue, yellow, or purple) and cost associated with placement. Defenders could only attack hexagons of the same color, adding a layer of strategy to the gameplay. Made use of concepts such as Drag & Drop, objects collision.
 
+![Untitled](https://github.com/emehigh/Plant-VS-Zombies-openGL-/assets/54904070/83245119-611d-4685-b05f-62dcd7386ec4)
 
 # GFX Framework
 
